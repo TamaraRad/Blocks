@@ -1,0 +1,31 @@
+.flex__item:nth-child(1) {
+    background-color: blueviolet;
+}
+
+.flex__item:nth-child(2) {
+    background-color: chocolate;
+}
+
+.flex__item:nth-child(3) {
+    background-color: burlywood;
+}
+
+.flex__item:nth-child(4) {
+    background-color: cornflowerblue;
+}
+
+.flex__item:nth-child(5) {
+    background-color: #2be243;
+}
+
+.flex__item:nth-child(6) {
+    background-color: #cc3c11;
+}
+
+.flex__item:nth-child(7) {
+    background-color: #3814da;
+}
+
+.flex__item:nth-child(8) {
+    background-color: #b41e82;
+}

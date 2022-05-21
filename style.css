@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.flex__box {
+  max-width: 1000px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex__item {
+  height: 100px;
+  width: 100px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.flex__item:nth-child(2) {
+  flex: 1 1 auto;
+}
+
+.flex__item:nth-child(3) {
+}
+
+.flex__item:nth-child(1) {
+}
